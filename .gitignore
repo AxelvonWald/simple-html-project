@@ -1,1 +1,8 @@
+echo "
+# Tailwind
+dist/
+node_modules/
+
+# System
 .DS_Store
+" >> .gitignore
